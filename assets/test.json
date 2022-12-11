@@ -1,0 +1,158 @@
+
+//flutter.targetSdkVersion
+//flutter.minSdkVersion
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=fc97a7fffa37443ebc63a7c9167a1523
+
+//base url: https://newsapi.org/
+//method (url): v2/top-headlines?
+//queries: country=us&category=business&apiKey=fc97a7fffa37443ebc63a7c9167a1523
+
+
+
+{
+"status": "ok",
+"totalResults": 69,
+-"articles": [
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "EXCLUSIVE At least $1 billion of client funds missing at failed crypto firm FTX – sources - Reuters.com",
+"description": "At least $1 billion of customer funds have vanished from collapsed crypto exchange FTX, according to two people familiar with the matter.",
+"url": "https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/",
+"urlToImage": "https://www.reuters.com/resizer/NGL_uZYPDWiUVKyfHiOI8861cK0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJA42GCZHJKHLGUDKS6TNCM4EA.jpg",
+"publishedAt": "2022-11-12T04:04:08Z",
+"content": "New York, Nov 11 (Reuters) - At least $1 billion of customer funds have vanished from collapsed crypto exchange FTX, according to two people familiar with the matter.\r\nThe exchange's founder Sam Bank… [+4739 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "California regulators propose compensation cuts for rooftop solar - KPIX CBS SF Bay Area",
+"description": "Once again, California regulators proposed rolling back the value of credits homeowners get from utilities for excess power their solar panels send to the gr...",
+"url": "https://www.youtube.com/watch?v=ZVPcrXHeZdE",
+"urlToImage": "https://i.ytimg.com/vi/ZVPcrXHeZdE/hqdefault.jpg",
+"publishedAt": "2022-11-12T02:50:19Z",
+"content": null
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Julia Horowitz",
+"title": "What's next for crypto as FTX collapse triggers 'Lehman moment'? - CNN",
+"description": "The stunning downfall of the FTX exchange, one of the biggest and most reputable players in the market for digital assets, is sparking alarm among people who own cryptocurrencies as investors run for cover.",
+"url": "https://www.cnn.com/2022/11/11/investing/ftx-crypto-consequences-lehman/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221111045250-01-ftx-crypto-consequences-lehman.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2022-11-12T01:20:00Z",
+"content": "The stunning downfall of the FTX exchange, one of the biggest and most reputable players in the market for digital assets, is sparking alarmamong people who own cryptocurrencies as investors run for … [+5958 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Daily Mail"
+},
+"author": "Paul Farrell",
+"title": "Are YOU being hit by inflation hardest? Map shows where cost of living is hitting hardest - Daily Mail",
+"description": "Some cities and states are battling the ongoing inflation crisis in the US better than others, according to the Bureau of Labor Statistics.",
+"url": "https://www.dailymail.co.uk/news/article-11418741/Are-hit-inflation-hardest-Map-shows-cost-living-hitting-hardest.html",
+"urlToImage": "https://i.dailymail.co.uk/1s/2022/11/12/00/64464355-0-image-a-2_1668212730379.jpg",
+"publishedAt": "2022-11-12T00:53:00Z",
+"content": "Some cities and states are battling the ongoing inflation crisis in the US better than others, according to the Bureau of Labor Statistics. \r\nOn Thursday, it was announced that inflation moderated in… [+7146 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Gregory Zuckerman, Alexander Osipovich",
+"title": "How FTX's Sam Bankman-Fried Went From Crypto Golden Boy to Villain - The Wall Street Journal",
+"description": "The exchange’s founder, once seen as a steady hand in the world of digital assets, is under investigation and his company filed for bankruptcy",
+"url": "https://www.wsj.com/articles/how-ftx-sam-bankman-fried-went-from-crypto-golden-boy-to-villain-11668199208",
+"urlToImage": "https://images.wsj.net/im-663794/social",
+"publishedAt": "2022-11-12T00:47:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Brian Armstrong, Coinbase CEO",
+"title": "Op-ed: Crypto markets need regulation to avoid more washouts like FTX, says Coinbase CEO Brian Armstrong - CNBC",
+"description": "The U.S. can take the lead by providing clear, business-forward regulation on crypto, writes Coinbase CEO Brian Armstrong",
+"url": "https://www.cnbc.com/2022/11/11/op-ed-crypto-markets-need-regulation-to-avoid-ftx-type-situations.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106868259-1618418339934-gettyimages-1144022591-775341711SF057_Consensus_20.jpeg?v=1668212123&w=1920&h=1080",
+"publishedAt": "2022-11-12T00:15:00Z",
+"content": "FTX until recently one of the biggest crypto exchanges in the world declared bankruptcy Friday after revelations about its business practices led to a surge of customer withdrawals, without sufficien… [+4420 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Robbie Whelan",
+"title": "Disney Details Plans for Cost Cuts, Layoffs and Hiring Freeze in Memo - The Wall Street Journal",
+"description": "Plans include a review of spending at all divisions and follows large losses in its streaming business",
+"url": "https://www.wsj.com/articles/disney-details-plans-for-cost-cuts-layoffs-and-hiring-freeze-in-memo-11668206985",
+"urlToImage": "https://images.wsj.net/im-664999/social",
+"publishedAt": "2022-11-12T00:07:00Z",
+"content": "Walt Disney Co. Chief Executive Bob Chapek announced Friday companywide cost-cutting measures and told division leaders that layoffs are likely, according to an internal memo viewed by The Wall Stree… [+338 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Krystal Hur",
+"title": "Jim Cramer says to hold on to these 3 cloud stocks and sell the rest - CNBC",
+"description": "To come up with his list of stocks, Cramer first looked at the WisdomTree Cloud Computing Fund, an ETF that soared over 13% on Thursday.",
+"url": "https://www.cnbc.com/2022/11/11/jim-cramer-says-to-hold-onto-these-3-cloud-stocks-and-sell-the-rest.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107076542-1655394598713-IMG_1708rb.jpg?v=1668210790&w=1920&h=1080",
+"publishedAt": "2022-11-11T23:53:10Z",
+"content": "CNBC's Jim Cramer on Friday offered a list of stock picks for investors who are bullish on cloud computing but cautioned that he believes there's more pain to come.\r\n\"I recommend using this incredibl… [+1338 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Decrypt"
+},
+"author": "Jose Antonio Lanz, Mat Di Salvo",
+"title": "'Like a 1930s Dictator': Vitalik Buterin Lays Into Sam Bankman-Fried and FTX - Decrypt",
+"description": "FTX's ignominious collapse was inevitable, Ethereum co-founder Vitalik Buterin said at LaBitConf Friday.",
+"url": "https://decrypt.co/114244/vitalik-buterin-ftx-collapse-sam-bankman-fried",
+"urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/vitalik-buterin-labitconf-gID_4.jpeg",
+"publishedAt": "2022-11-11T23:51:53Z",
+"content": "Vitalik Buterin, Ethereum co-founder and perhaps one of the most recognizable people in crypto, chastised ex-FTX CEO Sam Bankman-Fried today when asked about the businessman and the collapse of his e… [+1798 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Krystal Hur",
+"title": "Cramer’s week ahead: The market needs weak retail sales data to stay strong - CNBC",
+"description": "Earnings reports from the country's biggest retailers take center stage next week, as does retail sales data for October.",
+"url": "https://www.cnbc.com/2022/11/11/cramers-week-ahead-market-needs-weak-retail-data-to-stay-strong.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1668208615&w=1920&h=1080",
+"publishedAt": "2022-11-11T23:16:55Z",
+"content": "The stock market's current run could fizzle out if October retail sales data comes in hot next week, CNBC's Jim Cramer warned on Friday.\r\n\"If we see weak retail sales and learn that things are gettin… [+3637 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Crypto: 'How many more bankruptcies do we need to see before we get this right?” BitGo CCO says - Yahoo Finance",
+"description": "#Crypto #yahoofinance SBXBitGo Chief Compliance Officer & Former Coinbase Chief Compliance Officer Jeff Horowitz joins Yahoo Finance Live anchors Rachelle Ak...",
+"url": "https://www.youtube.com/watch?v=OtaIgYpu8Cs",
+"urlToImage": "https://i.ytimg.com/vi/OtaIgYpu8Cs/maxresdefault.jpg",
+"publishedAt": "2022-11-11T23:07:15Z",
+"content": null
+},
